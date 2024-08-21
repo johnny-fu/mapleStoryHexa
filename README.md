@@ -4,9 +4,13 @@
 計算六轉技能進度與計算累積打多少碎片
 
 rwd 方便手機點選(應該ㄅ)
+
 每日+每周、高山副本、公會城 碎片獎勵計算
+
 !!以不缺靈魂方式計算
+
 周王+活動靈魂愛爾達送蠻多的，應該不會缺
+
 ## Links
 
 網頁地址 [六轉碎片計算器](https://johnny-fu.github.io/mapleStoryHexa/hexaSkill.html).
